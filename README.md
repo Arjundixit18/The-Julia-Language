@@ -15,8 +15,8 @@ Here’s an **enhanced and interactive version** of the Julia README-style conte
   <b>Fast, Flexible, and Friendly for Scientific Computing</b>
 </div>
 
-![Flux.jl Training](https://raw.githubusercontent.com/FluxML/fluxml.github.io/master/static/img/flux-loop.gif)
-![Plots.jl GIF](https://miro.medium.com/v2/resize:fit:720/format:webp/1*xTw8XxkYuV6k5kCZwV3KOQ.gif)
+![Coding GIF](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
+
 
 
 ---
@@ -208,6 +208,7 @@ New developers can check [CONTRIBUTING.md](https://github.com/JuliaLang/julia/bl
 [codecov-img]: https://img.shields.io/codecov/c/github/JuliaLang/julia/master.svg?label=codecov
 [docs-img]: https://img.shields.io/badge/docs-v1-blue.svg
 ```
+![AI Brain GIF](https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif)
 
 ---
 
