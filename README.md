@@ -15,6 +15,10 @@ Here’s an **enhanced and interactive version** of the Julia README-style conte
   <b>Fast, Flexible, and Friendly for Scientific Computing</b>
 </div>
 
+![Flux.jl Training](https://raw.githubusercontent.com/FluxML/fluxml.github.io/master/static/img/flux-loop.gif)
+![Plots.jl GIF](https://miro.medium.com/v2/resize:fit:720/format:webp/1*xTw8XxkYuV6k5kCZwV3KOQ.gif)
+
+
 ---
 
 ## 🔍 Overview: The Julia Language
@@ -207,4 +211,3 @@ New developers can check [CONTRIBUTING.md](https://github.com/JuliaLang/julia/bl
 
 ---
 
-Let me know if you want this converted into a `.md` file for GitHub upload or need a personalized project version!
