@@ -4,7 +4,6 @@ This folder contains key modules related to the **Intermediate Representation (I
 
 Whether you're studying Julia's compiler internals or contributing to language-level improvements, this directory offers insight into how high-level Julia code becomes performant machine code.
 
-
 ---
 
 ## 📁 Folder Contents
